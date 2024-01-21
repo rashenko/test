@@ -1,3 +1,4 @@
+#/etc/nginx/sites-available/
 # Balance server
 
 upstream backend {
